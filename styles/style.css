@@ -58,7 +58,6 @@
 
 .cover__title {
   color: #fff;
-  text-transform: uppercase;
   padding: 165px 50px;
   z-index: 2;
   /* FONT */
@@ -96,7 +95,6 @@
 
 .cover__description-text {
   color: #fff;
-  text-transform: uppercase;
   word-spacing: 10px;
   /* FONT */
   font-family: Raleway;
@@ -112,7 +110,6 @@
   border: 1px solid white;
   color: white;
   padding: 12px 32px;
-  text-transform: uppercase;
   background-color: transparent;
   font-family: Raleway;
   /* FONT */
@@ -257,9 +254,6 @@
   line-height: 100%;
   letter-spacing: 0%;
   text-transform: uppercase;
-}
-
-.about__text {
 }
 
 .footer {
